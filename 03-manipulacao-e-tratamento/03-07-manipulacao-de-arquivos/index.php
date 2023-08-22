@@ -65,3 +65,6 @@ if(file_exists($getContents) && is_file($getContents)) {
 if(file_exists(__DIR__ . "/teste3.txt") && is_file(__DIR__ . "/teste3.txt")) {
   unlink(__DIR__ . "/teste3.txt");
 }
+
+
+DS7WJA7M
