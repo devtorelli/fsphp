@@ -77,4 +77,4 @@ $dataPreFilter = [
   "script" => FILTER_SANITIZE_STRING,
 ];
 
-var_dump(filter_input_array($arrDataFilter, $dataPreFilter));
+var_dump(filter_var_array($arrDataFilter, $dataPreFilter));
